@@ -1,1 +1,1 @@
-# study-proggramming-languages
+# study-programming-languages
